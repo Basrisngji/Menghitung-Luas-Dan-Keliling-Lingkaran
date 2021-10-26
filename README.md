@@ -14,9 +14,9 @@
 - Ini Adalah OUTPUT Dari Menghitung Keliling Lingkaran <p>
 ![Gambar6](screenshot/ssss10.png)
 ## Penjelasan File README.md
-- Ini Adalah Contoh Kodingan Untuk Luas Lingkaran <p>
+- Ini Adalah Kodingan Untuk Menampilkan File Luas Lingkaran <p>
 ![Gambar7](screenshot/ssss11.png)
-- Ini Adalah Contoh Kodingan Untuk Keliling Lingkaran <p>
+- Ini Adalah Kodingan Untuk Menampilkan File Keliling Lingkaran <p>
 ![Gambar8](screenshot/ssss12.png)
 - Ini Adalah Keseluruhan Kodinganya <p>
 ![Gambar9](screenshot/ssss13.png)
