@@ -2,4 +2,4 @@
 pi=3.14;
 r=input("Masukkan jari-jari :");
 luas=pi*int(r)*int(r);
-print("Keliling Lingkaran adalah :",luas);
+print("Luas Lingkaran adalah :",luas);
